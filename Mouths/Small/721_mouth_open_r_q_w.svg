@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8194"
+   sodipodi:docname="721_mouth_open_r_q_w.svg"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8196"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="475.24999"
+     inkscape:cy="577.87499"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8191" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#a82626;fill-opacity:1;stroke:none;stroke-width:0.177923px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.92931,127.72699 -9.722463,4.40216 -4.774935,9.07943 2.358704,13.27522 5.983054,7.77254 8.80198,-0.61904 7.59388,-3.7831 1.66834,-11.14294 -2.87646,-13.75671 -5.75294,-4.53973 z"
+       id="path672" />
+    <path
+       id="path8463"
+       style="font-variation-settings:'wdth' 100, 'wght' 900;fill:#000000;stroke-width:1.19492;stroke-linecap:round;paint-order:stroke fill markers"
+       d="m 105.01292,124.39949 c -9.568122,0 -16.141651,5.91749 -16.141651,21.98419 0,16.06671 8.405493,20.95579 16.141651,20.92585 7.73616,-0.0299 16.11581,-4.83509 16.11581,-20.92585 0,-16.09076 -6.54769,-21.98419 -16.11581,-21.98419 z m 9.78441,21.98419 c 0,12.97786 -5.58834,13.99552 -9.78441,13.99552 -4.19607,0 -9.767371,-0.83999 -9.767371,-13.99552 0,-13.15553 5.281771,-15.05335 9.767371,-15.05335 4.4856,0 9.78441,2.0755 9.78441,15.05335 z"
+       sodipodi:nodetypes="zzzzzzzzzz" />
+  </g>
+</svg>
