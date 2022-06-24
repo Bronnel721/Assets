@@ -32,7 +32,8 @@
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showguides="false" />
   <defs
      id="defs8191" />
   <g
@@ -44,14 +45,14 @@
        style="font-variation-settings:'wdth' 100, 'wght' 900;fill:#ffffff;stroke-width:0.983138;stroke-linecap:round;paint-order:stroke fill markers"
        id="path2733" />
     <path
+       id="path7945"
+       style="font-variation-settings:'wdth' 100, 'wght' 900;fill:#e6e6e6;stroke-width:1.19492;stroke-linecap:round;paint-order:stroke fill markers"
+       d="m 179.62305,142.84347 c 1.41786,2.2e-4 8.64019,6.1e-4 10.13116,0.001 v 6.94014 c -55.58167,0.016 -65.4861,-0.0753 -65.49057,-3.46955 -0.004,-3.30367 3.91359,-3.47929 55.35941,-3.47163 z"
+       sodipodi:nodetypes="sccsss" />
+    <path
        id="path8463"
        style="font-variation-settings:'wdth' 100, 'wght' 900;fill:#000000;stroke-width:1.19492;stroke-linecap:round;paint-order:stroke fill markers"
        d="m 105.01292,124.39949 c -67.799445,-0.26242 -87.049985,5.1165 -87.049985,21.98419 0,16.86769 22.95373,21.17393 87.049985,20.92585 64.09625,-0.24809 87.02415,-4.79245 87.02415,-20.92585 0,-16.1334 -19.22471,-21.72177 -87.02415,-21.98419 z m 80.69275,21.98419 c 0,14.19393 -28.38635,13.99552 -80.69275,13.99552 -52.306405,0 -80.675705,-0.55935 -80.675705,-13.99552 0,-13.43617 27.6641,-15.05335 80.675705,-15.05335 53.01161,0 80.69275,0.85942 80.69275,15.05335 z"
        sodipodi:nodetypes="zzzzzzzzzz" />
-    <path
-       id="path7945"
-       style="font-variation-settings:'wdth' 100, 'wght' 900;fill:#000000;stroke-width:1.19492;stroke-linecap:round;paint-order:stroke fill markers"
-       d="m 179.62305,142.84347 c 1.41786,2.2e-4 8.64019,6.1e-4 10.13116,0.001 v 6.94014 c -55.58167,0.016 -65.4861,-0.0753 -65.49057,-3.46955 -0.004,-3.30367 3.91359,-3.47929 55.35941,-3.47163 z"
-       sodipodi:nodetypes="sccsss" />
   </g>
 </svg>

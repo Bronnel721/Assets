@@ -45,14 +45,14 @@
        id="path270"
        sodipodi:nodetypes="sssss" />
     <path
+       id="path7945"
+       style="font-variation-settings:'wdth' 100, 'wght' 900;fill:#e6e6e6;stroke-width:1.19492;stroke-linecap:round;paint-order:stroke fill markers"
+       d="m 163.26968,180.49253 -1.5875,6.94014 c -26.08634,8.95361 -56.65076,13.7691 -56.40394,7.94514 0.22001,-5.19152 9.31499,-0.37812 57.99144,-14.88528 z"
+       sodipodi:nodetypes="ccsc" />
+    <path
        id="path8463"
        style="font-variation-settings:'wdth' 100, 'wght' 900;fill:#000000;stroke-width:1.19492;stroke-linecap:round;paint-order:stroke fill markers"
        d="m 105.01292,147.01638 c -43.161089,0 -65.883319,-25.49869 -65.883319,2.9342 0,24.8782 8.39643,93.115 65.883319,92.8925 57.48689,-0.2225 65.85749,-68.6423 65.85749,-92.8925 0,-29.48869 -22.6964,-2.9342 -65.85749,-2.9342 z m 59.52609,2.9342 c 0,23.18198 -7.21969,85.96217 -59.52609,85.96217 -52.306409,0 -59.509039,-63.26007 -59.509039,-85.96217 0,-16.90235 16.3316,3.99664 59.509039,3.99664 43.17744,0 59.52609,-19.69507 59.52609,-3.99664 z"
        sodipodi:nodetypes="zszszszszs" />
-    <path
-       id="path7945"
-       style="font-variation-settings:'wdth' 100, 'wght' 900;fill:#000000;stroke-width:1.19492;stroke-linecap:round;paint-order:stroke fill markers"
-       d="m 163.26968,180.49253 -1.5875,6.94014 c -26.08634,8.95361 -56.65076,13.7691 -56.40394,7.94514 0.22001,-5.19152 9.31499,-0.37812 57.99144,-14.88528 z"
-       sodipodi:nodetypes="ccsc" />
   </g>
 </svg>
